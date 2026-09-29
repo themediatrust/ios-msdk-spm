@@ -10,8 +10,7 @@ download.
 ## Requirements
 
 - iOS 12.0+
-- Xcode 15.0+
-- Swift 5.9+
+- Xcode 26.3 or 27.0 (tested)
 
 ## Installation
 
@@ -44,10 +43,10 @@ targets: [
 import MediaFilterSDK
 
 // Initialize the SDK during app launch.
-MediaFilter.initialize(token: <#CONFIGURATION_TOKEN#>, debugMode: false)
+MediaFilter.initialize(hash: <#CONFIGURATION_HASH#>, debugMode: false)
 ```
 
-Your configuration token is provided by The Media Trust.
+Your configuration hash is provided by The Media Trust.
 
 ## Documentation
 
