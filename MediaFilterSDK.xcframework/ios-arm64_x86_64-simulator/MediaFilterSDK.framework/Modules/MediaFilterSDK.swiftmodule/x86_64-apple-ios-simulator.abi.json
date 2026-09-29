@@ -1,0 +1,3698 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "MediaFilterSDK",
+    "printedName": "MediaFilterSDK",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "WebKit",
+        "printedName": "WebKit",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CryptoKit",
+        "printedName": "CryptoKit",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "WebKit",
+        "printedName": "WebKit",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "WebKit",
+        "printedName": "WebKit",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "WebKit",
+        "printedName": "WebKit",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "WebKit",
+        "printedName": "WebKit",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "WebKit",
+        "printedName": "WebKit",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "WebKit",
+        "printedName": "WebKit",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "WebKit",
+        "printedName": "WebKit",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Compression",
+        "printedName": "Compression",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK"
+      },
+      {
+        "kind": "Var",
+        "name": "kObjectDumpResolutionDefaultDumpDepth",
+        "printedName": "kObjectDumpResolutionDefaultDumpDepth",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "Int",
+            "printedName": "Swift.Int",
+            "usr": "s:Si"
+          }
+        ],
+        "declKind": "Var",
+        "usr": "s:14MediaFilterSDK028kObjectDumpResolutionDefaultE5DepthSivp",
+        "mangledName": "$s14MediaFilterSDK028kObjectDumpResolutionDefaultE5DepthSivp",
+        "moduleName": "MediaFilterSDK",
+        "declAttributes": [
+          "HasInitialValue",
+          "HasStorage",
+          "UsableFromInline"
+        ],
+        "isLet": true,
+        "hasStorage": true,
+        "accessors": [
+          {
+            "kind": "Accessor",
+            "name": "Get",
+            "printedName": "Get()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Accessor",
+            "usr": "s:14MediaFilterSDK028kObjectDumpResolutionDefaultE5DepthSivg",
+            "mangledName": "$s14MediaFilterSDK028kObjectDumpResolutionDefaultE5DepthSivg",
+            "moduleName": "MediaFilterSDK",
+            "implicit": true,
+            "accessorKind": "get"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "ObjectiveC",
+        "printedName": "ObjectiveC",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "WebKit",
+        "printedName": "WebKit",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "os.log",
+        "printedName": "os.log",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "OSLog",
+        "printedName": "OSLog",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "AdUnitDetails",
+        "printedName": "AdUnitDetails",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(adUnitID:adUnitSize:customMetadata:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "AdUnitDetails",
+                "printedName": "MediaFilterSDK.AdUnitDetails",
+                "usr": "s:14MediaFilterSDK13AdUnitDetailsV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "CoreFoundation.CGSize?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CGSize",
+                    "printedName": "CoreFoundation.CGSize",
+                    "usr": "c:@S@CGSize"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Dictionary",
+                "printedName": "[MediaFilterSDK.AdUnitDetails.CustomMetadataKey : Any?]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CustomMetadataKey",
+                    "printedName": "MediaFilterSDK.AdUnitDetails.CustomMetadataKey",
+                    "usr": "s:14MediaFilterSDK13AdUnitDetailsV17CustomMetadataKeyO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Any?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:SD"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:14MediaFilterSDK13AdUnitDetailsV02adE2ID0gE4Size14customMetadataACSS_So6CGSizeVSgSDyAC06CustomK3KeyOypSgGtcfc",
+            "mangledName": "$s14MediaFilterSDK13AdUnitDetailsV02adE2ID0gE4Size14customMetadataACSS_So6CGSizeVSgSDyAC06CustomK3KeyOypSgGtcfc",
+            "moduleName": "MediaFilterSDK",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "TypeDecl",
+            "name": "CustomMetadataKey",
+            "printedName": "CustomMetadataKey",
+            "children": [
+              {
+                "kind": "Var",
+                "name": "responseInfo",
+                "printedName": "responseInfo",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(MediaFilterSDK.AdUnitDetails.CustomMetadataKey.Type) -> MediaFilterSDK.AdUnitDetails.CustomMetadataKey",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "CustomMetadataKey",
+                        "printedName": "MediaFilterSDK.AdUnitDetails.CustomMetadataKey",
+                        "usr": "s:14MediaFilterSDK13AdUnitDetailsV17CustomMetadataKeyO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Metatype",
+                        "printedName": "MediaFilterSDK.AdUnitDetails.CustomMetadataKey.Type",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "CustomMetadataKey",
+                            "printedName": "MediaFilterSDK.AdUnitDetails.CustomMetadataKey",
+                            "usr": "s:14MediaFilterSDK13AdUnitDetailsV17CustomMetadataKeyO"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "EnumElement",
+                "usr": "s:14MediaFilterSDK13AdUnitDetailsV17CustomMetadataKeyO12responseInfoyA2EmF",
+                "mangledName": "$s14MediaFilterSDK13AdUnitDetailsV17CustomMetadataKeyO12responseInfoyA2EmF",
+                "moduleName": "MediaFilterSDK"
+              },
+              {
+                "kind": "Var",
+                "name": "other",
+                "printedName": "other",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(MediaFilterSDK.AdUnitDetails.CustomMetadataKey.Type) -> MediaFilterSDK.AdUnitDetails.CustomMetadataKey",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "CustomMetadataKey",
+                        "printedName": "MediaFilterSDK.AdUnitDetails.CustomMetadataKey",
+                        "usr": "s:14MediaFilterSDK13AdUnitDetailsV17CustomMetadataKeyO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Metatype",
+                        "printedName": "MediaFilterSDK.AdUnitDetails.CustomMetadataKey.Type",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "CustomMetadataKey",
+                            "printedName": "MediaFilterSDK.AdUnitDetails.CustomMetadataKey",
+                            "usr": "s:14MediaFilterSDK13AdUnitDetailsV17CustomMetadataKeyO"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "EnumElement",
+                "usr": "s:14MediaFilterSDK13AdUnitDetailsV17CustomMetadataKeyO5otheryA2EmF",
+                "mangledName": "$s14MediaFilterSDK13AdUnitDetailsV17CustomMetadataKeyO5otheryA2EmF",
+                "moduleName": "MediaFilterSDK"
+              },
+              {
+                "kind": "Function",
+                "name": "==",
+                "printedName": "==(_:_:)",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CustomMetadataKey",
+                    "printedName": "MediaFilterSDK.AdUnitDetails.CustomMetadataKey",
+                    "usr": "s:14MediaFilterSDK13AdUnitDetailsV17CustomMetadataKeyO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CustomMetadataKey",
+                    "printedName": "MediaFilterSDK.AdUnitDetails.CustomMetadataKey",
+                    "usr": "s:14MediaFilterSDK13AdUnitDetailsV17CustomMetadataKeyO"
+                  }
+                ],
+                "declKind": "Func",
+                "usr": "s:14MediaFilterSDK13AdUnitDetailsV17CustomMetadataKeyO2eeoiySbAE_AEtFZ",
+                "mangledName": "$s14MediaFilterSDK13AdUnitDetailsV17CustomMetadataKeyO2eeoiySbAE_AEtFZ",
+                "moduleName": "MediaFilterSDK",
+                "static": true,
+                "implicit": true,
+                "funcSelfKind": "NonMutating"
+              },
+              {
+                "kind": "Var",
+                "name": "hashValue",
+                "printedName": "hashValue",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Var",
+                "usr": "s:14MediaFilterSDK13AdUnitDetailsV17CustomMetadataKeyO9hashValueSivp",
+                "mangledName": "$s14MediaFilterSDK13AdUnitDetailsV17CustomMetadataKeyO9hashValueSivp",
+                "moduleName": "MediaFilterSDK",
+                "implicit": true,
+                "accessors": [
+                  {
+                    "kind": "Accessor",
+                    "name": "Get",
+                    "printedName": "Get()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Int",
+                        "printedName": "Swift.Int",
+                        "usr": "s:Si"
+                      }
+                    ],
+                    "declKind": "Accessor",
+                    "usr": "s:14MediaFilterSDK13AdUnitDetailsV17CustomMetadataKeyO9hashValueSivg",
+                    "mangledName": "$s14MediaFilterSDK13AdUnitDetailsV17CustomMetadataKeyO9hashValueSivg",
+                    "moduleName": "MediaFilterSDK",
+                    "implicit": true,
+                    "accessorKind": "get"
+                  }
+                ]
+              },
+              {
+                "kind": "Function",
+                "name": "hash",
+                "printedName": "hash(into:)",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Hasher",
+                    "printedName": "Swift.Hasher",
+                    "paramValueOwnership": "InOut",
+                    "usr": "s:s6HasherV"
+                  }
+                ],
+                "declKind": "Func",
+                "usr": "s:14MediaFilterSDK13AdUnitDetailsV17CustomMetadataKeyO4hash4intoys6HasherVz_tF",
+                "mangledName": "$s14MediaFilterSDK13AdUnitDetailsV17CustomMetadataKeyO4hash4intoys6HasherVz_tF",
+                "moduleName": "MediaFilterSDK",
+                "implicit": true,
+                "funcSelfKind": "NonMutating"
+              }
+            ],
+            "declKind": "Enum",
+            "usr": "s:14MediaFilterSDK13AdUnitDetailsV17CustomMetadataKeyO",
+            "mangledName": "$s14MediaFilterSDK13AdUnitDetailsV17CustomMetadataKeyO",
+            "moduleName": "MediaFilterSDK",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "conformances": [
+              {
+                "kind": "Conformance",
+                "name": "Copyable",
+                "printedName": "Copyable",
+                "usr": "s:s8CopyableP",
+                "mangledName": "$ss8CopyableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Escapable",
+                "printedName": "Escapable",
+                "usr": "s:s9EscapableP",
+                "mangledName": "$ss9EscapableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Equatable",
+                "printedName": "Equatable",
+                "usr": "s:SQ",
+                "mangledName": "$sSQ"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Hashable",
+                "printedName": "Hashable",
+                "usr": "s:SH",
+                "mangledName": "$sSH"
+              }
+            ]
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:14MediaFilterSDK13AdUnitDetailsV",
+        "mangledName": "$s14MediaFilterSDK13AdUnitDetailsV",
+        "moduleName": "MediaFilterSDK",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "ViolationDetails",
+        "printedName": "ViolationDetails",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "type",
+            "printedName": "type",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ActionType",
+                "printedName": "MediaFilterSDK.ViolationDetails.ActionType",
+                "usr": "s:14MediaFilterSDK16ViolationDetailsV10ActionTypeO"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:14MediaFilterSDK16ViolationDetailsV4typeAC10ActionTypeOvp",
+            "mangledName": "$s14MediaFilterSDK16ViolationDetailsV4typeAC10ActionTypeOvp",
+            "moduleName": "MediaFilterSDK",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ActionType",
+                    "printedName": "MediaFilterSDK.ViolationDetails.ActionType",
+                    "usr": "s:14MediaFilterSDK16ViolationDetailsV10ActionTypeO"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14MediaFilterSDK16ViolationDetailsV4typeAC10ActionTypeOvg",
+                "mangledName": "$s14MediaFilterSDK16ViolationDetailsV4typeAC10ActionTypeOvg",
+                "moduleName": "MediaFilterSDK",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "TypeDecl",
+            "name": "ActionType",
+            "printedName": "ActionType",
+            "children": [
+              {
+                "kind": "Var",
+                "name": "block",
+                "printedName": "block",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(MediaFilterSDK.ViolationDetails.ActionType.Type) -> MediaFilterSDK.ViolationDetails.ActionType",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ActionType",
+                        "printedName": "MediaFilterSDK.ViolationDetails.ActionType",
+                        "usr": "s:14MediaFilterSDK16ViolationDetailsV10ActionTypeO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Metatype",
+                        "printedName": "MediaFilterSDK.ViolationDetails.ActionType.Type",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "ActionType",
+                            "printedName": "MediaFilterSDK.ViolationDetails.ActionType",
+                            "usr": "s:14MediaFilterSDK16ViolationDetailsV10ActionTypeO"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "EnumElement",
+                "usr": "s:14MediaFilterSDK16ViolationDetailsV10ActionTypeO5blockyA2EmF",
+                "mangledName": "$s14MediaFilterSDK16ViolationDetailsV10ActionTypeO5blockyA2EmF",
+                "moduleName": "MediaFilterSDK"
+              },
+              {
+                "kind": "Var",
+                "name": "notify",
+                "printedName": "notify",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(MediaFilterSDK.ViolationDetails.ActionType.Type) -> MediaFilterSDK.ViolationDetails.ActionType",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ActionType",
+                        "printedName": "MediaFilterSDK.ViolationDetails.ActionType",
+                        "usr": "s:14MediaFilterSDK16ViolationDetailsV10ActionTypeO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Metatype",
+                        "printedName": "MediaFilterSDK.ViolationDetails.ActionType.Type",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "ActionType",
+                            "printedName": "MediaFilterSDK.ViolationDetails.ActionType",
+                            "usr": "s:14MediaFilterSDK16ViolationDetailsV10ActionTypeO"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "EnumElement",
+                "usr": "s:14MediaFilterSDK16ViolationDetailsV10ActionTypeO6notifyyA2EmF",
+                "mangledName": "$s14MediaFilterSDK16ViolationDetailsV10ActionTypeO6notifyyA2EmF",
+                "moduleName": "MediaFilterSDK"
+              },
+              {
+                "kind": "Constructor",
+                "name": "init",
+                "printedName": "init(rawValue:)",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "MediaFilterSDK.ViolationDetails.ActionType?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ActionType",
+                        "printedName": "MediaFilterSDK.ViolationDetails.ActionType",
+                        "usr": "s:14MediaFilterSDK16ViolationDetailsV10ActionTypeO"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Constructor",
+                "usr": "s:14MediaFilterSDK16ViolationDetailsV10ActionTypeO8rawValueAESgSS_tcfc",
+                "mangledName": "$s14MediaFilterSDK16ViolationDetailsV10ActionTypeO8rawValueAESgSS_tcfc",
+                "moduleName": "MediaFilterSDK",
+                "implicit": true,
+                "init_kind": "Designated"
+              },
+              {
+                "kind": "Var",
+                "name": "rawValue",
+                "printedName": "rawValue",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Var",
+                "usr": "s:14MediaFilterSDK16ViolationDetailsV10ActionTypeO8rawValueSSvp",
+                "mangledName": "$s14MediaFilterSDK16ViolationDetailsV10ActionTypeO8rawValueSSvp",
+                "moduleName": "MediaFilterSDK",
+                "implicit": true,
+                "accessors": [
+                  {
+                    "kind": "Accessor",
+                    "name": "Get",
+                    "printedName": "Get()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "declKind": "Accessor",
+                    "usr": "s:14MediaFilterSDK16ViolationDetailsV10ActionTypeO8rawValueSSvg",
+                    "mangledName": "$s14MediaFilterSDK16ViolationDetailsV10ActionTypeO8rawValueSSvg",
+                    "moduleName": "MediaFilterSDK",
+                    "implicit": true,
+                    "accessorKind": "get"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Enum",
+            "usr": "s:14MediaFilterSDK16ViolationDetailsV10ActionTypeO",
+            "mangledName": "$s14MediaFilterSDK16ViolationDetailsV10ActionTypeO",
+            "moduleName": "MediaFilterSDK",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "enumRawTypeName": "String",
+            "conformances": [
+              {
+                "kind": "Conformance",
+                "name": "Copyable",
+                "printedName": "Copyable",
+                "usr": "s:s8CopyableP",
+                "mangledName": "$ss8CopyableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Escapable",
+                "printedName": "Escapable",
+                "usr": "s:s9EscapableP",
+                "mangledName": "$ss9EscapableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Equatable",
+                "printedName": "Equatable",
+                "usr": "s:SQ",
+                "mangledName": "$sSQ"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Hashable",
+                "printedName": "Hashable",
+                "usr": "s:SH",
+                "mangledName": "$sSH"
+              },
+              {
+                "kind": "Conformance",
+                "name": "RawRepresentable",
+                "printedName": "RawRepresentable",
+                "children": [
+                  {
+                    "kind": "TypeWitness",
+                    "name": "RawValue",
+                    "printedName": "RawValue",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ]
+                  }
+                ],
+                "usr": "s:SY",
+                "mangledName": "$sSY"
+              }
+            ]
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:14MediaFilterSDK16ViolationDetailsV",
+        "mangledName": "$s14MediaFilterSDK16ViolationDetailsV",
+        "moduleName": "MediaFilterSDK",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MediaFilterSDK"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "MediaFilter",
+        "printedName": "MediaFilter",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "initialize",
+            "printedName": "initialize(hash:debugMode:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "hasDefaultArg": true,
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14MediaFilterSDK0aB0O10initialize4hash9debugModeySS_SbtFZ",
+            "mangledName": "$s14MediaFilterSDK0aB0O10initialize4hash9debugModeySS_SbtFZ",
+            "moduleName": "MediaFilterSDK",
+            "static": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "initialize",
+            "printedName": "initialize(token:debugMode:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "hasDefaultArg": true,
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14MediaFilterSDK0aB0O10initialize5token9debugModeySS_SbtFZ",
+            "mangledName": "$s14MediaFilterSDK0aB0O10initialize5token9debugModeySS_SbtFZ",
+            "moduleName": "MediaFilterSDK",
+            "static": true,
+            "deprecated": true,
+            "declAttributes": [
+              "AccessControl",
+              "Available"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "addBanner",
+            "printedName": "addBanner(_:adUnitDetails:isPrecached:onFiltered:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIView",
+                "printedName": "UIKit.UIView",
+                "usr": "c:objc(cs)UIView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "MediaFilterSDK.AdUnitDetails?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "AdUnitDetails",
+                    "printedName": "MediaFilterSDK.AdUnitDetails",
+                    "usr": "s:14MediaFilterSDK13AdUnitDetailsV"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "hasDefaultArg": true,
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(MediaFilterSDK.ViolationDetails?) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "MediaFilterSDK.ViolationDetails?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ViolationDetails",
+                        "printedName": "MediaFilterSDK.ViolationDetails",
+                        "usr": "s:14MediaFilterSDK16ViolationDetailsV"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14MediaFilterSDK0aB0O9addBanner_13adUnitDetails11isPrecached10onFilteredySo6UIViewC_AA02AdgH0VSgSbyAA09ViolationH0VSgctFZ",
+            "mangledName": "$s14MediaFilterSDK0aB0O9addBanner_13adUnitDetails11isPrecached10onFilteredySo6UIViewC_AA02AdgH0VSgSbyAA09ViolationH0VSgctFZ",
+            "moduleName": "MediaFilterSDK",
+            "static": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "updateBannerStatus",
+            "printedName": "updateBannerStatus(banner:isPrecached:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIView",
+                "printedName": "UIKit.UIView",
+                "usr": "c:objc(cs)UIView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14MediaFilterSDK0aB0O18updateBannerStatus6banner11isPrecachedySo6UIViewC_SbtFZ",
+            "mangledName": "$s14MediaFilterSDK0aB0O18updateBannerStatus6banner11isPrecachedySo6UIViewC_SbtFZ",
+            "moduleName": "MediaFilterSDK",
+            "static": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "addInterstitial",
+            "printedName": "addInterstitial(_:in:adUnitDetails:onFiltered:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "ProtocolComposition",
+                "printedName": "AnyObject"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIViewController",
+                "printedName": "UIKit.UIViewController",
+                "usr": "c:objc(cs)UIViewController"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "MediaFilterSDK.AdUnitDetails?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "AdUnitDetails",
+                    "printedName": "MediaFilterSDK.AdUnitDetails",
+                    "usr": "s:14MediaFilterSDK13AdUnitDetailsV"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(MediaFilterSDK.ViolationDetails?) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "MediaFilterSDK.ViolationDetails?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ViolationDetails",
+                        "printedName": "MediaFilterSDK.ViolationDetails",
+                        "usr": "s:14MediaFilterSDK16ViolationDetailsV"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14MediaFilterSDK0aB0O15addInterstitial_2in13adUnitDetails10onFilteredyyXl_So16UIViewControllerCAA02AdhI0VSgyAA09ViolationI0VSgctFZ",
+            "mangledName": "$s14MediaFilterSDK0aB0O15addInterstitial_2in13adUnitDetails10onFilteredyyXl_So16UIViewControllerCAA02AdhI0VSgyAA09ViolationI0VSgctFZ",
+            "moduleName": "MediaFilterSDK",
+            "static": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "addNative",
+            "printedName": "addNative(_:adUnitDetails:onFiltered:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "ProtocolComposition",
+                "printedName": "AnyObject"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "MediaFilterSDK.AdUnitDetails?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "AdUnitDetails",
+                    "printedName": "MediaFilterSDK.AdUnitDetails",
+                    "usr": "s:14MediaFilterSDK13AdUnitDetailsV"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(MediaFilterSDK.ViolationDetails?) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "MediaFilterSDK.ViolationDetails?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ViolationDetails",
+                        "printedName": "MediaFilterSDK.ViolationDetails",
+                        "usr": "s:14MediaFilterSDK16ViolationDetailsV"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14MediaFilterSDK0aB0O9addNative_13adUnitDetails10onFilteredyyXl_AA02AdgH0VSgyAA09ViolationH0VSgctFZ",
+            "mangledName": "$s14MediaFilterSDK0aB0O9addNative_13adUnitDetails10onFilteredyyXl_AA02AdgH0VSgyAA09ViolationH0VSgctFZ",
+            "moduleName": "MediaFilterSDK",
+            "static": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:14MediaFilterSDK0aB0O",
+        "mangledName": "$s14MediaFilterSDK0aB0O",
+        "moduleName": "MediaFilterSDK",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "UIView",
+        "printedName": "UIView",
+        "declKind": "Class",
+        "usr": "c:objc(cs)UIView",
+        "moduleName": "UIKit",
+        "isOpen": true,
+        "intro_iOS": "2.0",
+        "objc_name": "UIView",
+        "declAttributes": [
+          "Preconcurrency",
+          "Available",
+          "ObjC",
+          "NonSendable",
+          "Custom",
+          "Dynamic"
+        ],
+        "superclassUsr": "c:objc(cs)UIResponder",
+        "isExternal": true,
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "UIKit.UIResponder",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "UITraitChangeObservable",
+            "printedName": "UITraitChangeObservable",
+            "usr": "s:5UIKit23UITraitChangeObservableP",
+            "mangledName": "$s5UIKit23UITraitChangeObservableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "__DefaultCustomPlaygroundQuickLookable",
+            "printedName": "__DefaultCustomPlaygroundQuickLookable",
+            "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
+            "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
+          }
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/Native Ads\/JSExecutionEnvironment\/JSExecutionEnvironment.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1515,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/Native Ads\/JSExecutionEnvironment\/JSExecutionWorker.swift",
+      "kind": "StringLiteral",
+      "offset": 167,
+      "length": 19,
+      "value": "\"JSExecutionWorker\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/Native Ads\/JSExecutionEnvironment\/JSExecutionWorker.swift",
+      "kind": "IntegerLiteral",
+      "offset": 742,
+      "length": 2,
+      "value": "60"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/Native Ads\/JSExecutionEnvironment\/JSExecutionWorker.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1340,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/Native Ads\/JSExecutionEnvironment\/JSExecutionWorker.swift",
+      "kind": "Array",
+      "offset": 1448,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/Native Ads\/NativeAdPayload.swift",
+      "kind": "Array",
+      "offset": 230,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/Native Ads\/NativeAdPayload.swift",
+      "kind": "BooleanLiteral",
+      "offset": 418,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/Native Ads\/NativeAdPayload.swift",
+      "kind": "StringLiteral",
+      "offset": 485,
+      "length": 5,
+      "value": "\"gad\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/Native Ads\/NativeAdPayload.swift",
+      "kind": "StringLiteral",
+      "offset": 518,
+      "length": 5,
+      "value": "\"max\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/Native Ads\/NativeAdPayload.swift",
+      "kind": "StringLiteral",
+      "offset": 563,
+      "length": 6,
+      "value": "\"fban\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/Native Ads\/NativeAdPayload.swift",
+      "kind": "StringLiteral",
+      "offset": 592,
+      "length": 8,
+      "value": "\"inmobi\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/Native Ads\/NativeAdPayload.swift",
+      "kind": "StringLiteral",
+      "offset": 647,
+      "length": 12,
+      "value": "\"bidmachine\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/Native Ads\/NativeAdPayload.swift",
+      "kind": "StringLiteral",
+      "offset": 918,
+      "length": 12,
+      "value": "\"ad-network\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/Native Ads\/NativeAdPayload.swift",
+      "kind": "StringLiteral",
+      "offset": 1030,
+      "length": 17,
+      "value": "\"advertiser-name\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/Native Ads\/NativeAdPayload.swift",
+      "kind": "Array",
+      "offset": 1274,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/Native Ads\/NativeAdScanner.swift",
+      "kind": "StringLiteral",
+      "offset": 151,
+      "length": 20,
+      "value": "\"NativeAdScanner - \""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/RemoteConfiguration\/RemoteConfiguration.swift",
+      "kind": "StringLiteral",
+      "offset": 3575,
+      "length": 7,
+      "value": "\"setup\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/RemoteConfiguration\/RemoteConfiguration.swift",
+      "kind": "StringLiteral",
+      "offset": 3612,
+      "length": 5,
+      "value": "\"sdk\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/RemoteConfiguration\/RemoteConfiguration.swift",
+      "kind": "StringLiteral",
+      "offset": 4156,
+      "length": 24,
+      "value": "\"web-view-delegates-ios\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/RemoteConfiguration\/RemoteConfiguration.swift",
+      "kind": "StringLiteral",
+      "offset": 4263,
+      "length": 22,
+      "value": "\"web-view-markers-ios\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/RemoteConfiguration\/RemoteConfiguration.swift",
+      "kind": "StringLiteral",
+      "offset": 4511,
+      "length": 3,
+      "value": "\"v\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/RemoteConfiguration\/RemoteConfiguration.swift",
+      "kind": "StringLiteral",
+      "offset": 4548,
+      "length": 3,
+      "value": "\"i\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/RemoteConfiguration\/RemoteConfiguration.swift",
+      "kind": "StringLiteral",
+      "offset": 4585,
+      "length": 3,
+      "value": "\"e\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/RemoteConfiguration\/RemoteConfiguration.swift",
+      "kind": "StringLiteral",
+      "offset": 4921,
+      "length": 13,
+      "value": "\"sdk-enabled\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/RemoteConfiguration\/RemoteConfiguration.swift",
+      "kind": "StringLiteral",
+      "offset": 4971,
+      "length": 20,
+      "value": "\"sdk-enabled-events\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/RemoteConfiguration\/RemoteConfiguration.swift",
+      "kind": "StringLiteral",
+      "offset": 5031,
+      "length": 20,
+      "value": "\"sdk-enabled-filter\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/RemoteConfiguration\/RemoteConfiguration.swift",
+      "kind": "StringLiteral",
+      "offset": 5101,
+      "length": 34,
+      "value": "\"sdk-enabled-viewability-tracking\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/RemoteConfiguration\/RemoteConfiguration.swift",
+      "kind": "StringLiteral",
+      "offset": 5182,
+      "length": 31,
+      "value": "\"sdk-enabled-precache-tracking\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/RemoteConfiguration\/RemoteConfiguration.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5544,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/RemoteConfiguration\/RemoteConfiguration.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5559,
+      "length": 8,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/RemoteConfiguration\/RemoteConfiguration.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5581,
+      "length": 9,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/RemoteConfiguration\/RemoteConfiguration.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5604,
+      "length": 13,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/RemoteConfiguration\/RemoteConfiguration.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5631,
+      "length": 7,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/RemoteConfiguration\/RemoteConfiguration.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5652,
+      "length": 5,
+      "value": "6"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/RemoteConfiguration\/RemoteConfiguration.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5671,
+      "length": 5,
+      "value": "7"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/RemoteConfiguration\/RemoteConfigurationService.swift",
+      "kind": "StringLiteral",
+      "offset": 148,
+      "length": 24,
+      "value": "\"RemoteConfiguration - \""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/RemoteConfiguration\/RemoteConfigurationService.swift",
+      "kind": "IntegerLiteral",
+      "offset": 542,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/RemoteConfiguration\/RemoteConfigurationService.swift",
+      "kind": "IntegerLiteral",
+      "offset": 580,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/RemoteConfiguration\/RemoteConfigurationService.swift",
+      "kind": "BooleanLiteral",
+      "offset": 610,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/Reporting\/Components\/AdInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 483,
+      "length": 12,
+      "value": "\"ad-unit-id\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/Reporting\/Components\/AdInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 563,
+      "length": 19,
+      "value": "\"gam-response-info\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/Reporting\/Components\/AdInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 618,
+      "length": 14,
+      "value": "\"max-response\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/Reporting\/Components\/AdInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 669,
+      "length": 32,
+      "value": "\"audience-network-response-info\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/Reporting\/Components\/AdInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 740,
+      "length": 22,
+      "value": "\"inmobi-response-info\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/Reporting\/Components\/AdInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 801,
+      "length": 22,
+      "value": "\"vungle-response-info\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/Reporting\/Components\/AdInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 866,
+      "length": 26,
+      "value": "\"bidmachine-response-info\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/Reporting\/Components\/AppInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 403,
+      "length": 12,
+      "value": "\"os-version\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/Reporting\/Components\/AppInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 444,
+      "length": 11,
+      "value": "\"bundle-id\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/Reporting\/Components\/AppInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 483,
+      "length": 3,
+      "value": "\"v\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/Reporting\/Components\/BaseEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 550,
+      "length": 12,
+      "value": "\"session-id\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/Reporting\/Components\/BaseEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 617,
+      "length": 3,
+      "value": "\"v\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/Reporting\/Components\/BaseEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 656,
+      "length": 13,
+      "value": "\"wv-delegate\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/Reporting\/Components\/DebugEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 876,
+      "length": 12,
+      "value": "\"session-id\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/Reporting\/Components\/DebugEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 976,
+      "length": 12,
+      "value": "\"ad-unit-id\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/Reporting\/Components\/InjectionInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 213,
+      "length": 15,
+      "value": "\"pre-rendering\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/Reporting\/Components\/InjectionInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 258,
+      "length": 16,
+      "value": "\"post-rendering\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/Reporting\/Components\/Report.swift",
+      "kind": "StringLiteral",
+      "offset": 383,
+      "length": 3,
+      "value": "\"v\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/Reporting\/Components\/Report.swift",
+      "kind": "StringLiteral",
+      "offset": 412,
+      "length": 4,
+      "value": "\"ci\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/Reporting\/Components\/Report.swift",
+      "kind": "StringLiteral",
+      "offset": 446,
+      "length": 4,
+      "value": "\"ua\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/Reporting\/Components\/Report.swift",
+      "kind": "StringLiteral",
+      "offset": 475,
+      "length": 4,
+      "value": "\"bd\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/Reporting\/Components\/Report.swift",
+      "kind": "StringLiteral",
+      "offset": 852,
+      "length": 3,
+      "value": "\"u\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/Reporting\/Components\/Report.swift",
+      "kind": "StringLiteral",
+      "offset": 880,
+      "length": 3,
+      "value": "\"t\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/Reporting\/Components\/Report.swift",
+      "kind": "StringLiteral",
+      "offset": 910,
+      "length": 3,
+      "value": "\"a\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/Reporting\/Components\/Report.swift",
+      "kind": "StringLiteral",
+      "offset": 940,
+      "length": 3,
+      "value": "\"d\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/Reporting\/Components\/Report.swift",
+      "kind": "StringLiteral",
+      "offset": 1036,
+      "length": 5,
+      "value": "\"enc\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/Reporting\/Components\/Report.swift",
+      "kind": "StringLiteral",
+      "offset": 3755,
+      "length": 13,
+      "value": "\"sdk_wrapper\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/Reporting\/Components\/ReportRequest.swift",
+      "kind": "Dictionary",
+      "offset": 248,
+      "length": 89,
+      "value": "[(\"Accept\", \"application\/json\"), (\"Content-Type\", \"application\/json\")]"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/Reporting\/NetworkResponseInfos\/AppLovinMaxResponseInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 517,
+      "length": 11,
+      "value": "\"ad-format\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/Reporting\/NetworkResponseInfos\/AppLovinMaxResponseInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 556,
+      "length": 14,
+      "value": "\"network-name\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/Reporting\/NetworkResponseInfos\/AppLovinMaxResponseInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 603,
+      "length": 19,
+      "value": "\"network-placement\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/Reporting\/NetworkResponseInfos\/AppLovinMaxResponseInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 669,
+      "length": 10,
+      "value": "\"dsp-name\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/Reporting\/NetworkResponseInfos\/AppLovinMaxResponseInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 701,
+      "length": 8,
+      "value": "\"dsp-id\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/Reporting\/NetworkResponseInfos\/AppLovinMaxResponseInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 736,
+      "length": 13,
+      "value": "\"creative-id\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/Reporting\/NetworkResponseInfos\/AppLovinMaxResponseInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 782,
+      "length": 20,
+      "value": "\"review-creative-id\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/Reporting\/NetworkResponseInfos\/BidMachineResponseInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 495,
+      "length": 8,
+      "value": "\"bid-id\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/Reporting\/NetworkResponseInfos\/BidMachineResponseInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 530,
+      "length": 13,
+      "value": "\"creative-id\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/Reporting\/NetworkResponseInfos\/BidMachineResponseInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 566,
+      "length": 9,
+      "value": "\"deal-id\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/Reporting\/NetworkResponseInfos\/BidMachineResponseInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 595,
+      "length": 6,
+      "value": "\"c-id\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/Reporting\/NetworkResponseInfos\/BidMachineResponseInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 630,
+      "length": 15,
+      "value": "\"demand-source\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/Reporting\/NetworkResponseInfos\/BidMachineResponseInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 693,
+      "length": 15,
+      "value": "\"custom-params\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/Reporting\/NetworkResponseInfos\/BidMachineResponseInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 737,
+      "length": 15,
+      "value": "\"custom-extras\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/Reporting\/NetworkResponseInfos\/FacebookAudienceNetworkResponseInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 453,
+      "length": 11,
+      "value": "\"ad-format\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/Reporting\/NetworkResponseInfos\/FacebookAudienceNetworkResponseInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 491,
+      "length": 14,
+      "value": "\"ad-view-type\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/Reporting\/NetworkResponseInfos\/FacebookAudienceNetworkResponseInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 532,
+      "length": 13,
+      "value": "\"banner-type\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/Reporting\/NetworkResponseInfos\/FacebookAudienceNetworkResponseInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 573,
+      "length": 14,
+      "value": "\"placement-id\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/Reporting\/NetworkResponseInfos\/FacebookAudienceNetworkResponseInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 613,
+      "length": 12,
+      "value": "\"request-id\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/Reporting\/NetworkResponseInfos\/GoogleMobileAdsResponseInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 357,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/Reporting\/NetworkResponseInfos\/GoogleMobileAdsResponseInfo.swift",
+      "kind": "Dictionary",
+      "offset": 383,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/Reporting\/NetworkResponseInfos\/InMobiResponseInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 564,
+      "length": 14,
+      "value": "\"placement-id\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/Reporting\/NetworkResponseInfos\/InMobiResponseInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 605,
+      "length": 13,
+      "value": "\"creative-id\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/Reporting\/NetworkResponseInfos\/InMobiResponseInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 667,
+      "length": 13,
+      "value": "\"content-url\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/Reporting\/NetworkResponseInfos\/InMobiResponseInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 709,
+      "length": 16,
+      "value": "\"ad-source-name\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/Reporting\/NetworkResponseInfos\/InMobiResponseInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 751,
+      "length": 12,
+      "value": "\"buyer-name\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/Reporting\/NetworkResponseInfos\/InMobiResponseInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 788,
+      "length": 11,
+      "value": "\"bid-value\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/Reporting\/NetworkResponseInfos\/InMobiResponseInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 826,
+      "length": 13,
+      "value": "\"buyer-price\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/Reporting\/NetworkResponseInfos\/VungleResponseInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 426,
+      "length": 19,
+      "value": "\"adapter-ad-format\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/Reporting\/NetworkResponseInfos\/VungleResponseInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 467,
+      "length": 8,
+      "value": "\"app-id\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/Reporting\/NetworkResponseInfos\/VungleResponseInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 502,
+      "length": 13,
+      "value": "\"creative-id\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/Reporting\/NetworkResponseInfos\/VungleResponseInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 539,
+      "length": 10,
+      "value": "\"event-id\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/Reporting\/NetworkResponseInfos\/VungleResponseInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 577,
+      "length": 14,
+      "value": "\"placement-id\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/Reporting\/ReportingService.swift",
+      "kind": "StringLiteral",
+      "offset": 165,
+      "length": 20,
+      "value": "\"ReportingService -\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/Version Matcher\/MSDKVersionMatcher.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2971,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/WebViewInteroperator\/InteroperationTarget\/Components\/DelegateInterceptor.swift",
+      "kind": "StringLiteral",
+      "offset": 155,
+      "length": 24,
+      "value": "\"DelegateInterceptor - \""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/WebViewInteroperator\/InteroperationTarget\/Components\/JSBridge.swift",
+      "kind": "StringLiteral",
+      "offset": 157,
+      "length": 10,
+      "value": "\"JSBridge\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/WebViewInteroperator\/InteroperationTarget\/Components\/JSBridge.swift",
+      "kind": "StringLiteral",
+      "offset": 1662,
+      "length": 6,
+      "value": "\"type\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/WebViewInteroperator\/InteroperationTarget\/Components\/JSBridge.swift",
+      "kind": "StringLiteral",
+      "offset": 1700,
+      "length": 9,
+      "value": "\"message\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/WebViewInteroperator\/InteroperationTarget\/Components\/JSInjectionRepository.swift",
+      "kind": "StringLiteral",
+      "offset": 318,
+      "length": 12,
+      "value": "\"logHandler\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/WebViewInteroperator\/InteroperationTarget\/Components\/JSInjectionRepository.swift",
+      "kind": "StringLiteral",
+      "offset": 356,
+      "length": 12,
+      "value": "\"windowOpen\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/WebViewInteroperator\/InteroperationTarget\/Components\/JSInjectionRepository.swift",
+      "kind": "StringLiteral",
+      "offset": 390,
+      "length": 8,
+      "value": "\"bridge\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/WebViewInteroperator\/InteroperationTarget\/Components\/JSInjectionRepository.swift",
+      "kind": "StringLiteral",
+      "offset": 2580,
+      "length": 1235,
+      "value": "\"var interceptedConsoleImpl = (\n    function(originalConsoleImpl) {\n        return {\n            log: function(text) {\n                originalConsoleImpl.log(text);\n                window.webkit.messageHandlers.\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/WebViewInteroperator\/InteroperationTarget\/Components\/JSInjectionRepository.swift",
+      "kind": "StringLiteral",
+      "offset": 2887,
+      "length": 1,
+      "value": "\".postMessage(text);\n            },\n            info: function(text) {\n                originalConsoleImpl.info(text);\n                window.webkit.messageHandlers.\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/WebViewInteroperator\/InteroperationTarget\/Components\/JSInjectionRepository.swift",
+      "kind": "StringLiteral",
+      "offset": 3127,
+      "length": 1,
+      "value": "\".postMessage(text);\n            },\n            warn: function(text) {\n                originalConsoleImpl.warn(text);\n                window.webkit.messageHandlers.\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/WebViewInteroperator\/InteroperationTarget\/Components\/JSInjectionRepository.swift",
+      "kind": "StringLiteral",
+      "offset": 3367,
+      "length": 1,
+      "value": "\".postMessage(text);\n            },\n            error: function(text) {\n                originalConsoleImpl.error(text);\n                window.webkit.messageHandlers.\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/WebViewInteroperator\/InteroperationTarget\/Components\/JSInjectionRepository.swift",
+      "kind": "StringLiteral",
+      "offset": 3609,
+      "length": 1,
+      "value": "\".postMessage(text);\n            }\n        };\n    }(window.console)\n);\n\nwindow.console = interceptedConsoleImpl;\n\nconsole.log(\"Patched `console`\");\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/WebViewInteroperator\/InteroperationTarget\/Components\/JSInjectionRepository.swift",
+      "kind": "StringLiteral",
+      "offset": 3883,
+      "length": 912,
+      "value": "\"function MSDK() {\n    this.isReady = null;\n}\n\nfunction sendToNative(str) {\n    window.webkit.messageHandlers.\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/WebViewInteroperator\/InteroperationTarget\/Components\/JSInjectionRepository.swift",
+      "kind": "StringLiteral",
+      "offset": 4076,
+      "length": 1,
+      "value": "\".postMessage(str);\n}\n\nMSDK.prototype.sendEvent = function() {\n    try {\n        var event = arguments[0];\n        if (\n            (event == null) ||\n            (event.dataset == null) ||\n            (event.dataset.eventMessage == null)\n        ) {\n            return;\n        }\n\n        var details = JSON.stringify(event);\n        sendToNative(details);\n        \n    } catch {\n        \/\/ There can be no arguments passed in\n        \/\/ Just ignore such events\n    }\n};\n\nwindow.msdk = new MSDK();\n\nconsole.log(\"Injected `Bridge Script`\");\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/WebViewInteroperator\/InteroperationTarget\/Components\/JSInjectionRepository.swift",
+      "kind": "StringLiteral",
+      "offset": 4887,
+      "length": 712,
+      "value": "\"var script = document.createElement('script');\nscript.text = \"\";\nscript.type = \"text\/javascript\";\nscript.src = \"#SCRIPT_SRC#\";\n\nvar isReady = false;\n        \ntry {\n    document.body.appendChild(script);\n    isReady = true;\n} catch(e) {\n    try {\n        document.head.appendChild(script);\n        isReady = true;\n    } catch {\n        console.log(\"Failed to appendChild(script): \" + e);\n        isReady = false;\n    }\n}\n\nwindow.msdk.isReady = isReady;\n\nif (isReady) {\n    console.log(\"Injected `AD Validator Script`\");\n}\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/WebViewInteroperator\/InteroperationTarget\/Components\/JSInjectionRepository.swift",
+      "kind": "StringLiteral",
+      "offset": 5785,
+      "length": 295,
+      "value": "\"const url = new URL(window.location.href);\nurl.searchParams.set('mediafilter_debug', '');\npatched_url = url.toString().replace(\/=(?=&|$)\/gm, '');\nwindow.history.pushState({}, '', patched_url);\n\nconsole.log(\"Injected `AD Validator Flags`\");\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/WebViewInteroperator\/InteroperationTarget\/Components\/JSInjectionRepository.swift",
+      "kind": "StringLiteral",
+      "offset": 6160,
+      "length": 173,
+      "value": "\"(function() {\n    if (window.msdk != null) {\n        return window.msdk.isReady;\n    }\n    return false;\n})()\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/WebViewInteroperator\/InteroperationTarget\/Components\/JSInjectionRepository.swift",
+      "kind": "StringLiteral",
+      "offset": 6425,
+      "length": 249,
+      "value": "\"window.open = function (...args) {\n    window.webkit.messageHandlers.\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/WebViewInteroperator\/InteroperationTarget\/Components\/JSInjectionRepository.swift",
+      "kind": "StringLiteral",
+      "offset": 6558,
+      "length": 1,
+      "value": "\".postMessage(args[0]);\n    return false\n}\n\nconsole.log(\"Patched `window.open`\");\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/WebViewInteroperator\/InteroperationTarget\/Components\/JSInjector.swift",
+      "kind": "StringLiteral",
+      "offset": 146,
+      "length": 12,
+      "value": "\"JSInjector\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/WebViewInteroperator\/InteroperationTarget\/Components\/JSInjector.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1044,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/WebViewInteroperator\/InteroperationTarget\/Components\/JSInjector.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2077,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/WebViewInteroperator\/InteroperationTarget\/InteroperationTarget.swift",
+      "kind": "StringLiteral",
+      "offset": 169,
+      "length": 25,
+      "value": "\"InteroperationTarget - \""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/WebViewInteroperator\/InteroperationTarget\/InteroperationTarget.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1352,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/WebViewInteroperator\/WebViewInteroperator.swift",
+      "kind": "StringLiteral",
+      "offset": 184,
+      "length": 25,
+      "value": "\"WebViewInteroperator - \""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/WebViewInteroperator\/WKWebView++.swift",
+      "kind": "StringLiteral",
+      "offset": 747,
+      "length": 23,
+      "value": "\"Error while swizzling\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/WebViewInteroperator\/WKWebView++.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1370,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/WebViewInteroperator\/WKWebView++.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1520,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/WebViewInteroperator\/WKWebView++.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1657,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/WebViewInteroperator\/WKWebView++.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1803,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/WebViewInteroperator\/WKWebView++.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1974,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/WebViewInteroperator\/WKWebView++.swift",
+      "kind": "StringLiteral",
+      "offset": 2114,
+      "length": 71,
+      "value": "\"WKWebView [\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/WebViewInteroperator\/WKWebView++.swift",
+      "kind": "StringLiteral",
+      "offset": 2149,
+      "length": 1,
+      "value": "\"] does not belong to known Ad SDKs.\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/CoreConfiguration.swift",
+      "kind": "StringLiteral",
+      "offset": 374,
+      "length": 49,
+      "value": "\"https:\/\/scripts.webcontentassessor.com\/scripts\/\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/CoreConfiguration.swift",
+      "kind": "StringLiteral",
+      "offset": 609,
+      "length": 50,
+      "value": "\"https:\/\/api.webcontentassessor.com\/events\/events\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/CoreConfiguration.swift",
+      "kind": "StringLiteral",
+      "offset": 751,
+      "length": 75,
+      "value": "\"https:\/\/8fclf1m5b7.execute-api.us-east-1.amazonaws.com\/dev\/v1\/native-dump\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/CoreConfiguration.swift",
+      "kind": "StringLiteral",
+      "offset": 902,
+      "length": 42,
+      "value": "\"WpVkL0cpzb2olHpiuYh545fzHEZT7KzbaqwMK9dU\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/CoreConfiguration.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1392,
+      "length": 3,
+      "value": "300"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/CoreConfiguration.swift",
+      "kind": "FloatLiteral",
+      "offset": 1614,
+      "length": 3,
+      "value": "0.5"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/CoreConfiguration.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1811,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/CoreConfiguration.swift",
+      "kind": "Array",
+      "offset": 1960,
+      "length": 81,
+      "value": "[\"FBInterstitialAd\", \"FBNativeAd\"]"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/CoreConfiguration.swift",
+      "kind": "Array",
+      "offset": 2259,
+      "length": 1061,
+      "value": "[\"GADWebViewController\", \"GADFullScreenAdViewController\", \"ALWKWebView\", \"ALAppLovinVideoViewController\", \"POBHTMLRenderer\", \"FBAdWebKitContentContainer\", \"VungleWebView\", \"BidMachine.AdaptiveWebViewNavigationHandler\", \"AdaptiveWebViewNavigationHandler\"]"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/MediaFilterCore.swift",
+      "kind": "BooleanLiteral",
+      "offset": 675,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Core\/MediaFilterCore.swift",
+      "kind": "Dictionary",
+      "offset": 1624,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/Coding\/JSON Codable\/JSONValue.swift",
+      "kind": "BooleanLiteral",
+      "offset": 269,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/Coding\/JSON Codable\/JSONValue.swift",
+      "kind": "BooleanLiteral",
+      "offset": 294,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/Objective-C Extensions\/ObjC.object_evaluateValue.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1285,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/Objective-C Extensions\/ObjC.object_evaluateValue.swift",
+      "kind": "Array",
+      "offset": 1363,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/Objective-C Extensions\/ObjC.object_evaluateValue.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1392,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/Objective-C Extensions\/ObjC.object_getDump.swift",
+      "kind": "IntegerLiteral",
+      "offset": 207,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/Objective-C Extensions\/ObjC.object_getDump.swift",
+      "kind": "IntegerLiteral",
+      "offset": 252,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/Objective-C Extensions\/ObjC.object_getDump.swift",
+      "kind": "BooleanLiteral",
+      "offset": 570,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/Objective-C Extensions\/ObjC.object_getDump.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9548,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/Objective-C Extensions\/ObjCExt.swift",
+      "kind": "Array",
+      "offset": 182,
+      "length": 137,
+      "value": "[\"\/System\/Library\/\", \"\/usr\/lib\/\", \"\/Library\/Apple\/\", \"\/AppleInternal\/\", \"\/Developer\/Library\/\"]"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/Objective-C Extensions\/ObjCTypeParser.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2583,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/AsyncOperation.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1147,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/DeviceInfoProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 280,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/DeviceInfoProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 382,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/DeviceInfoProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 445,
+      "length": 28,
+      "value": "\"CFBundleShortVersionString\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/DeviceInfoProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 489,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/DeviceInfoProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 574,
+      "length": 5,
+      "value": "\"iOS\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/DeviceInfoProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 662,
+      "length": 28,
+      "value": "\"CFBundleShortVersionString\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/DeviceInfoProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 706,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/DeviceInfoProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 856,
+      "length": 12,
+      "value": "\"_userAgent\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/DeviceInfoProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 1075,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/HTTP.swift",
+      "kind": "StringLiteral",
+      "offset": 244,
+      "length": 8,
+      "value": "\"Accept\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/HTTP.swift",
+      "kind": "StringLiteral",
+      "offset": 276,
+      "length": 14,
+      "value": "\"Content-Type\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/HTTP.swift",
+      "kind": "Dictionary",
+      "offset": 380,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/HTTP.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1058,
+      "length": 3,
+      "value": "100"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/HTTP.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1092,
+      "length": 3,
+      "value": "101"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/HTTP.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1118,
+      "length": 3,
+      "value": "102"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/HTTP.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1156,
+      "length": 3,
+      "value": "200"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/HTTP.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1179,
+      "length": 3,
+      "value": "201"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/HTTP.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1203,
+      "length": 3,
+      "value": "202"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/HTTP.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1235,
+      "length": 3,
+      "value": "203"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/HTTP.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1260,
+      "length": 3,
+      "value": "204"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/HTTP.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1288,
+      "length": 3,
+      "value": "205"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/HTTP.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1318,
+      "length": 3,
+      "value": "206"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/HTTP.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1373,
+      "length": 3,
+      "value": "300"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/HTTP.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1405,
+      "length": 3,
+      "value": "301"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/HTTP.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1426,
+      "length": 3,
+      "value": "302"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/HTTP.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1450,
+      "length": 3,
+      "value": "303"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/HTTP.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1477,
+      "length": 3,
+      "value": "304"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/HTTP.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1510,
+      "length": 3,
+      "value": "307"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/HTTP.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1543,
+      "length": 3,
+      "value": "308"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/HTTP.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1594,
+      "length": 3,
+      "value": "400"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/HTTP.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1622,
+      "length": 3,
+      "value": "401"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/HTTP.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1653,
+      "length": 3,
+      "value": "402"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/HTTP.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1678,
+      "length": 3,
+      "value": "403"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/HTTP.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1702,
+      "length": 3,
+      "value": "404"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/HTTP.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1734,
+      "length": 3,
+      "value": "405"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/HTTP.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1763,
+      "length": 3,
+      "value": "406"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/HTTP.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1787,
+      "length": 3,
+      "value": "409"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/HTTP.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1807,
+      "length": 3,
+      "value": "410"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/HTTP.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1843,
+      "length": 3,
+      "value": "415"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/HTTP.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1874,
+      "length": 3,
+      "value": "429"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/HTTP.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1934,
+      "length": 3,
+      "value": "500"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/HTTP.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1964,
+      "length": 3,
+      "value": "501"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/HTTP.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1990,
+      "length": 3,
+      "value": "502"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/HTTP.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2024,
+      "length": 3,
+      "value": "503"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/HTTP.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2054,
+      "length": 3,
+      "value": "504"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/Logger.swift",
+      "kind": "IntegerLiteral",
+      "offset": 399,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/Logger.swift",
+      "kind": "IntegerLiteral",
+      "offset": 404,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/Logger.swift",
+      "kind": "IntegerLiteral",
+      "offset": 455,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/Logger.swift",
+      "kind": "IntegerLiteral",
+      "offset": 460,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/Logger.swift",
+      "kind": "IntegerLiteral",
+      "offset": 511,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/Logger.swift",
+      "kind": "IntegerLiteral",
+      "offset": 516,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/Logger.swift",
+      "kind": "IntegerLiteral",
+      "offset": 573,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/Logger.swift",
+      "kind": "IntegerLiteral",
+      "offset": 578,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/Logger.swift",
+      "kind": "IntegerLiteral",
+      "offset": 648,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/Logger.swift",
+      "kind": "IntegerLiteral",
+      "offset": 653,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/Logger.swift",
+      "kind": "IntegerLiteral",
+      "offset": 709,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/Logger.swift",
+      "kind": "IntegerLiteral",
+      "offset": 714,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/Logger.swift",
+      "kind": "IntegerLiteral",
+      "offset": 771,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/Logger.swift",
+      "kind": "IntegerLiteral",
+      "offset": 776,
+      "length": 1,
+      "value": "6"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/Logger.swift",
+      "kind": "IntegerLiteral",
+      "offset": 835,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/Logger.swift",
+      "kind": "IntegerLiteral",
+      "offset": 840,
+      "length": 1,
+      "value": "7"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/Logger.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1957,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/VersionMatcher.swift",
+      "kind": "StringLiteral",
+      "offset": 3878,
+      "length": 4,
+      "value": "\">=\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/VersionMatcher.swift",
+      "kind": "StringLiteral",
+      "offset": 3914,
+      "length": 4,
+      "value": "\"<=\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/VersionMatcher.swift",
+      "kind": "StringLiteral",
+      "offset": 3946,
+      "length": 3,
+      "value": "\">\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/VersionMatcher.swift",
+      "kind": "StringLiteral",
+      "offset": 3974,
+      "length": 3,
+      "value": "\"<\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/VersionMatcher.swift",
+      "kind": "StringLiteral",
+      "offset": 3999,
+      "length": 3,
+      "value": "\"=\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/VersionMatcher.swift",
+      "kind": "StringLiteral",
+      "offset": 4024,
+      "length": 3,
+      "value": "\"^\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/VersionMatcher.swift",
+      "kind": "StringLiteral",
+      "offset": 4106,
+      "length": 3,
+      "value": "\"~\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/ViewabilityTracker.swift",
+      "kind": "IntegerLiteral",
+      "offset": 672,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/ViewabilityTracker.swift",
+      "kind": "FloatLiteral",
+      "offset": 1001,
+      "length": 3,
+      "value": "0.2"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/ViewabilityTracker.swift",
+      "kind": "StringLiteral",
+      "offset": 1757,
+      "length": 20,
+      "value": "\"ViewabilityTracker\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/ViewabilityTracker.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1906,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/ViewabilityTracker.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1948,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/ViewabilityTracker.swift",
+      "kind": "Array",
+      "offset": 1847,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/ViewabilityTracker.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2051,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/ViewabilityTracker.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2153,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/ViewabilityTracker.swift",
+      "kind": "FloatLiteral",
+      "offset": 2093,
+      "length": 3,
+      "value": "0.5"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Misc\/ViewabilityTracker.swift",
+      "kind": "FloatLiteral",
+      "offset": 6480,
+      "length": 3,
+      "value": "0.5"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Public\/AdUnitDetails.swift",
+      "kind": "Dictionary",
+      "offset": 260,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/Public\/AdUnitDetails.swift",
+      "kind": "Dictionary",
+      "offset": 370,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/MediaFilter.swift",
+      "kind": "BooleanLiteral",
+      "offset": 311,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/MediaFilter.swift",
+      "kind": "BooleanLiteral",
+      "offset": 583,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/atlassian-bitbucket-pipelines-runner\/temp\/23d1719b-a65a-5263-9e54-70c81bd81411\/build\/MediaFilterSDK\/MediaFilterSDK\/MediaFilter.swift",
+      "kind": "BooleanLiteral",
+      "offset": 848,
+      "length": 5,
+      "value": "false"
+    }
+  ]
+}

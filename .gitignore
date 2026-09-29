@@ -1,0 +1,67 @@
+# This repository distributes the MediaFilterSDK iOS binary through Swift Package
+# Manager. It must not contain SDK source code, build or debug artifacts, or secrets.
+# Package.swift is the only allowed Swift file.
+
+# --- Local development ------------------------------------------------------
+.DS_Store
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcuserdata/
+DerivedData/
+.swiftpm/
+xcuserdata/
+*.xcuserstate
+.build/
+Packages/
+Package.resolved
+
+# --- Source code -------------------------------------------------------------
+*.swift
+*.h
+*.m
+*.mm
+*.c
+*.cc
+*.cpp
+*.hpp
+*.modulemap
+*.xcodeproj/
+*.xcworkspace/
+**/Sources/
+**/Tests/
+
+# Package.swift is the manifest and must stay tracked.
+!Package.swift
+
+# --- Compiled binaries -------------------------------------------------------
+*.xcframework/
+*.xcframework.zip
+*.framework/
+*.a
+*.dylib
+*.o
+
+# --- Debug and symbol artifacts ----------------------------------------------
+*.dSYM/
+*.dSYM.zip
+*.pdb
+
+# --- Secrets -----------------------------------------------------------------
+.env
+.env.*
+*.p12
+*.pem
+*.cer
+*.mobileprovision
+AuthKey_*.p8
+
+# --- Build tooling -----------------------------------------------------------
+Podfile
+Podfile.lock
+*.podspec
+fastlane/
+
+# --- Vendored SDK binary ------------------------------------------------------
+# The XCFramework ships with this package (path-based binaryTarget) and must stay
+# tracked despite the binary patterns above. Keep these negations last.
+!MediaFilterSDK.xcframework/
+!MediaFilterSDK.xcframework/**

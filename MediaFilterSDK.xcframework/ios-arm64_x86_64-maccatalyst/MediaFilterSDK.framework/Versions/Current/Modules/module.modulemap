@@ -1,0 +1,11 @@
+framework module MediaFilterSDK {
+  umbrella header "MediaFilterSDK.h"
+  export *
+
+  module * { export * }
+}
+
+module MediaFilterSDK.Swift {
+  header "MediaFilterSDK-Swift.h"
+  requires objc
+}

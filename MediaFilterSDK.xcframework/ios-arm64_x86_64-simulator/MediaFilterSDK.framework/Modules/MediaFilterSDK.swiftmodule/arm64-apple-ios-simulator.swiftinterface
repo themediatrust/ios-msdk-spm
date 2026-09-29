@@ -1,0 +1,68 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 6.2.3 effective-5.10 (swiftlang-6.2.3.3.21 clang-1700.6.3.2)
+// swift-module-flags: -target arm64-apple-ios12.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name MediaFilterSDK
+// swift-module-flags-ignorable: -no-verify-emitted-module-interface -formal-cxx-interoperability-mode=off -interface-compiler-version 6.2.3
+import Combine
+import Compression
+import CryptoKit
+import Foundation
+@_exported import MediaFilterSDK
+import OSLog
+import ObjectiveC
+import Swift
+import UIKit
+import WebKit
+import _Concurrency
+import _StringProcessing
+import _SwiftConcurrencyShims
+import os.log
+import os
+@usableFromInline
+internal let kObjectDumpResolutionDefaultDumpDepth: Swift.Int
+public struct AdUnitDetails {
+  #if compiler(>=5.3) && $NonescapableTypes
+  public init(adUnitID: Swift.String, adUnitSize: CoreFoundation.CGSize? = nil, customMetadata: [MediaFilterSDK.AdUnitDetails.CustomMetadataKey : Any?] = [:])
+  #endif
+  public enum CustomMetadataKey : Swift.Hashable {
+    case responseInfo
+    case other
+    public static func == (a: MediaFilterSDK.AdUnitDetails.CustomMetadataKey, b: MediaFilterSDK.AdUnitDetails.CustomMetadataKey) -> Swift.Bool
+    public func hash(into hasher: inout Swift.Hasher)
+    public var hashValue: Swift.Int {
+      get
+    }
+  }
+}
+public struct ViolationDetails {
+  public let type: MediaFilterSDK.ViolationDetails.ActionType
+  public enum ActionType : Swift.String {
+    case block
+    case notify
+    #if compiler(>=5.3) && $NonescapableTypes
+    public init?(rawValue: Swift.String)
+    #endif
+    public typealias RawValue = Swift.String
+    public var rawValue: Swift.String {
+      get
+    }
+  }
+}
+public typealias ViolationHandler = (MediaFilterSDK.ViolationDetails?) -> Swift.Void
+public enum MediaFilter {
+  public static func initialize(hash: Swift.String, debugMode: Swift.Bool = false)
+  @available(*, deprecated, renamed: "initialize(hash:debugMode:)")
+  public static func initialize(token: Swift.String, debugMode: Swift.Bool = false)
+  #if compiler(>=5.3) && $NonescapableTypes
+  public static func addBanner(_ banner: UIKit.UIView, adUnitDetails: MediaFilterSDK.AdUnitDetails? = nil, isPrecached: Swift.Bool = false, onFiltered: @escaping MediaFilterSDK.ViolationHandler)
+  #endif
+  public static func updateBannerStatus(banner: UIKit.UIView, isPrecached: Swift.Bool)
+  #if compiler(>=5.3) && $NonescapableTypes
+  public static func addInterstitial(_ interstitial: Swift.AnyObject, in context: UIKit.UIViewController, adUnitDetails: MediaFilterSDK.AdUnitDetails? = nil, onFiltered: @escaping MediaFilterSDK.ViolationHandler)
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
+  public static func addNative(_ native: Swift.AnyObject, adUnitDetails: MediaFilterSDK.AdUnitDetails? = nil, onFiltered: @escaping MediaFilterSDK.ViolationHandler)
+  #endif
+}
+extension MediaFilterSDK.ViolationDetails.ActionType : Swift.Equatable {}
+extension MediaFilterSDK.ViolationDetails.ActionType : Swift.Hashable {}
+extension MediaFilterSDK.ViolationDetails.ActionType : Swift.RawRepresentable {}
